@@ -1,0 +1,14 @@
+{
+  "name": "prueba-05",
+  "version": "0.1.0",
+  "files": [
+    "prueba_05_bg.wasm",
+    "prueba_05.js",
+    "prueba_05.d.ts"
+  ],
+  "module": "prueba_05.js",
+  "types": "prueba_05.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
