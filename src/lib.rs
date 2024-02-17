@@ -76,7 +76,7 @@ pub fn run() -> Result<(), JsValue> {
 
     window().unwrap().set_interval_with_callback_and_timeout_and_arguments_0(
         closure.as_ref().unchecked_ref(),
-        5000, // Intervalo de tiempo en milisegundos
+        30000, // Intervalo de tiempo en milisegundos
     )?;
     closure.forget(); // Evita que la closure sea recolectada por el garbage collector
 
