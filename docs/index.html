@@ -3,11 +3,10 @@
 <head>
 	<title>Wasm Example</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-
 </head>
 <body>
 	<script type="module">
-    	import init from 'https://b2p5.github.io/wasm-api/pkg/prueba_05.js';
+    	import init from './pkg/prueba_05.js';
 
     	async function run() {
             	await init();
@@ -16,7 +15,7 @@
 
     	run();
 	</script>
-</body>	
+</body>
 	<h3>Wasm Example</h3>
-	<h5>Llamada a mempool.space cada minuto para leer los fees.</h5>
+	<h5>Llamada a mempool.space cada 60 segundos para leer los fees.</h5>
 </html>
