@@ -1,7 +1,8 @@
 # Proyecto de Tarifas de Transacciones de Bitcoin con WebAssembly y Rust
 
-En esta carpeta "doc" se encuentra todo lo necesario para llamar al script. 
-El fichero index.html, desde el cual se llama a un fichero .css (en capteta /css) y al fichero .js en carpeta (/pack) el cual llama a un fichero en binario extensión .wasm que es el fichero que contiene toda la lógica del proyecto debidamente compilada  con:
+En esta carpeta "docs" se encuentra todo lo necesario para llamar al script. 
+
+El fichero index.html, desde el cual se llama a un fichero .css (en capteta /css) y al fichero .js en carpeta (/pack) el cual llama a un fichero en binario extensión .wasm que es el que contiene toda la lógica del proyecto debidamente compilada  con:
 
 
 ```bash
