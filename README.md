@@ -61,9 +61,9 @@ Para utilizar este proyecto, necesitas tener instalado lo siguiente:
     ```
     Visitar `http://0.0.0.0:8000/` en tu navegador para ver la aplicación. 
 
-    También puedes ver el funcionamiento del script en:
 
-    `https://b2p5.github.io/wasm-api/`
+    También puedes ver el funcionamiento del script en: [https://b2p5.github.io/wasm-api/](https://b2p5.github.io/wasm-api/)
+
 
 
 ## Uso

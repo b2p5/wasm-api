@@ -8,9 +8,8 @@ El fichero index.html, desde el cual se llama a un fichero .css (en capteta /css
     wasm-pack build --target web
 ```
 
-Se puede ejcutar este programma con:
 
-`https://b2p5.github.io/wasm-api/`
+Se puede ejcutar este programma con: [https://b2p5.github.io/wasm-api/](https://b2p5.github.io/wasm-api/)
 
 
 
